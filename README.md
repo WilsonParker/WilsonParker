@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=Hello,%20I'm%20Wilson%20Parker!&height=150&fontSize=50&desc=9th-Year%20Backend%20Developer&descAlignY=70&descAlign=50"/>
   <br>
-  <!-- 방문자 수 카운터 -->
-  <a href="https://github.com/WilsonParker"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWilsonParker&count_bg=%23555555&title_bg=%23141414&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
 <br>
@@ -26,14 +24,6 @@
 
 ### DevOps & Infra
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
-<br>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <!-- GitHub 활동 기반 트로피 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=WilsonParker&theme=dracula&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
-</div>
 
 <br>
 
